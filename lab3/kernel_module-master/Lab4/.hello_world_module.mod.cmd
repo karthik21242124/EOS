@@ -1,0 +1,1 @@
+cmd_/home/dhanvin/Documents/EMBed/Lab4_2020/Lab4/hello_world_module.mod := { echo  /home/dhanvin/Documents/EMBed/Lab4_2020/Lab4/hello_world_module.o; echo; } > /home/dhanvin/Documents/EMBed/Lab4_2020/Lab4/hello_world_module.mod
